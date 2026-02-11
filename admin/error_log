@@ -1,0 +1,8 @@
+[23-Jan-2026 11:30:40 UTC] PHP Warning:  Undefined array key "specialization" in /home/imhrcorg/public_html/admin/internships-manage.php on line 33
+[23-Jan-2026 11:30:40 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/imhrcorg/public_html/admin/internships-manage.php on line 33
+[23-Jan-2026 11:34:57 UTC] PHP Warning:  Undefined array key "specialization" in /home/imhrcorg/public_html/admin/internships-manage.php on line 33
+[23-Jan-2026 11:34:57 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/imhrcorg/public_html/admin/internships-manage.php on line 33
+[23-Jan-2026 11:37:06 UTC] PHP Warning:  Undefined array key "specialization" in /home/imhrcorg/public_html/admin/internships-manage.php on line 33
+[23-Jan-2026 11:37:06 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/imhrcorg/public_html/admin/internships-manage.php on line 33
+[23-Jan-2026 11:42:39 UTC] PHP Warning:  Undefined array key "course_pursuing" in /home/imhrcorg/public_html/admin/internships-manage.php on line 60
+[23-Jan-2026 11:42:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/imhrcorg/public_html/admin/internships-manage.php on line 60
